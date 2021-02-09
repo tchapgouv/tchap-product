@@ -1,9 +1,13 @@
 # tchap-design
 
 ## Documents
-[DINSIC-TchapV3.5.pdf](https://github.com/dinsic-pim/tchap-design/raw/master/DINSIC-TchapV3.5.pdf)
+[DINSIC-TchapV3.7.pdf](https://github.com/dinsic-pim/tchap-design/raw/master/DINSIC-TchapV3.7.pdf) (03/02/2021)
+
+[DINSIC-TchapV3.6.pdf](https://github.com/dinsic-pim/tchap-design/raw/master/DINSIC-TchapV3.6.pdf) (29/01/2021)
+
+[DINSIC-TchapV3.5.pdf](https://github.com/dinsic-pim/tchap-design/raw/master/DINSIC-TchapV3.5.pdf) (08/12/2020)
 
 ## Liens
 Element : https://matrix.to/#/!XEqsHwlAaNnldaGorr:matrix.org?via=matrix.org
 
-Zeplin : https://app.zeplin.io/project/5e9ec9d34789ba53b3767ce7
+Figma : https://www.figma.com/file/H40WJfBEqoOqJK3GZOsXG3/Tchap-v3
