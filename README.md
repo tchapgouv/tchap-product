@@ -1,4 +1,6 @@
-# tchap-design
+# tchap-product
+
+This repository aims at collecting functional requirement in order to prioritize Tchap's roadmap : https://github.com/orgs/tchapgouv/projects/15/views/1
 
 ## Documents
 [DINSIC-TchapV3.7.pdf](https://github.com/dinsic-pim/tchap-design/raw/master/DINSIC-TchapV3.7.pdf) (03/02/2021)
