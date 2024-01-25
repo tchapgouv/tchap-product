@@ -9,11 +9,11 @@ assignees: ''
 
 Détailler la demande avec des users story par exemple ou du contexte
 
-# Why
+## Why
 Pourquoi et qui en a besoin ?
 
-# What
+## What
 En quoi cela consisterait
 
-# How
+## How
 Quels sont les pistes d'implémentations
